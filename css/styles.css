@@ -255,6 +255,7 @@ ul.personal > li {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--dark);
+  margin-bottom: 8px;
 }
 .text-portfolio {
   font-weight: 400;
@@ -501,6 +502,7 @@ button:hover {
   width: 100%;
   height: 100%;
  display:inline-block;
+ text-decoration: none;
 }
 .project-link:hover {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
