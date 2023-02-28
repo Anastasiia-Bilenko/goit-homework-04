@@ -370,9 +370,6 @@ button:hover {
 .advanteges-svg {
   width: 64px;
   height: 64px;
-  
-  
-  
 }
 
 .social-list {
@@ -416,7 +413,7 @@ button:hover {
   justify-content: center;
 }
 .company-item {
-  flex-basis: calc((100% - 5 * 24px) / 6);
+  flex-basis:calc((100% - 5 * 24px) / 6);
   height: 88px;
   
 }
